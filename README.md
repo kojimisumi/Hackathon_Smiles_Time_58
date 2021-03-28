@@ -14,8 +14,8 @@ Demos vida à Fe Smiles, uma ChatBot de WhatsApp para melhorar a experiência do
 
 ## Funcionalidades
 - [X] Programa personalizado: Ajuda na escolha da viagem e do plano Smiles
-- [X] Sugestão de viagens a partir de alguns inputs do cliente
-- [X] Recomendação de ferramentas já existentes no site e no aplicativo Smiles
+- [X] Planejamento de viagem: Acompanhamento da preparação da viagem escolhida 
+- [X] Recomendação de ferramentas já existentes no site e no aplicativo Smiles (como Radar Smiles e o Shopping Smiles)
 
 ## Exemplo do uso da ferramenta
 <table>
