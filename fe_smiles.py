@@ -44,7 +44,6 @@ def bot():
     if str(incoming_msg) == 'Sim':
         resp = MessagingResponse()
         msg = resp.message()
-        #msg.body('Você pode economizar mais de R$400 com planejamento e o Clube Smiles, pagando 56.000 milhas, e ainda acumulando mais milhas para poder viajar!\n\nPara obtenção das milhas, recomendamos para você o Clube Smiles, mas você pode conhecer outros planos no site da Smiles: https://www.smiles.com.br/clube-smiles/bonus-de-montao-23-03-21%27 ')
         msg.body('Economize mais de *R$400* com planejamento e o Clube Smiles, pagando 56.000 milhas, e ainda acumulando mais milhas para poder viajar!\n\nPara obter as milhas, sugerimos o *Plano 2000*: https://www.smiles.com.br/clube-smiles/\n\nVinícius, me avise quando adquirir um plano!')
         return str(resp)
 
