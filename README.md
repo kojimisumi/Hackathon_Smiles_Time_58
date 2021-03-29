@@ -29,7 +29,7 @@ Demos vida à Fe Smiles, uma ChatBot de WhatsApp para melhorar a experiência do
 ## Próximos passos
 - [X] Oferecimento de produtos do **Shopping Smiles** de acordo com o tipo de viagem escolhida pelo cliente
 - [X] Monitoramento do preço com o **Radar Smiles** através da Fe
-- [X] Utilizar ferramentas de PLN (Processamento de Linguagem Natural) para incorporar técnicas mais avançadas de processamento de texto e de áudio com bibliotecas como nltk e spacy
+- [X] Utilizar ferramentas de PLN (Processamento de Linguagem Natural) para incorporar técnicas mais avançadas de processamento de texto e de áudio com bibliotecas como **_nltk_** e **_spacy_**
 - [X] Utilização de base de dados para técnicas de Machine Learning e Deep Learning (possível utilização de Transfer Learning para aprimorar o entendimento de textos)
 
 ## Linguagem de programação
