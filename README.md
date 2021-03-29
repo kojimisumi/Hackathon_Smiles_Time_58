@@ -38,7 +38,7 @@ Demos vida à Fe Smiles, uma ChatBot de WhatsApp para melhorar a experiência do
 
 ## Módulos utilizados
 - Framework **_Flask_**, para poder criar uma aplicação web
-- **_Twilio Python Helper Library_**, para trabalhar com API's da Twilio
+- **_Twilio Python Helper Library_**, para trabalhar com API's do WhatsApp
 
 ## Comentários adicionais
 - Seguindo boas práticas de programação, o projeto da Fe Smiles foi desenvolvido em um ambiente virtual
