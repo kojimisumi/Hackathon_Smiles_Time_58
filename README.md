@@ -8,7 +8,7 @@
 - Vinícius Bueno Bernardes
 
 ## Produto
-Demos vida à Fe Smiles, uma ChatBot de WhatsApp para melhorar a experiência do cliente e deixar a relação com as viagens mais prática e prazerosa
+Demos vida à Fe Smiles, uma ChatBot de WhatsApp para melhorar a experiência do cliente, ajudando com o planejamento financeiro e, assim, deixar a relação com as viagens mais prática e prazerosa
 
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/79596598/112763807-6b420d00-8fdc-11eb-92ce-4b7d31572e53.png" /></div>
 
