@@ -1,4 +1,4 @@
-# Hackathon Smiles - Time 58 - Chatbot WhatsApp
+# Hackathon Smiles - Time 58 - ChatBot WhatsApp
 
 ## Time
 - Alex Koji Misumi 
@@ -44,5 +44,5 @@ Demos vida à Fe Smiles, uma ChatBot de WhatsApp para melhorar a experiência do
 - Seguindo boas práticas de programação, o projeto da Fe Smiles foi desenvolvido em um ambiente virtual
 - Para enviar mensagens para o WhatsApp, foi preciso criar uma conta no site https://www.twilio.com/whatsapp
 - Para tornar o serviço do chatbot acessível a partir da internet, foi utilizado o **_ngrok_** (https://ngrok.com/)
-- O chatbot é inicializado com o comando **_python fe_smiles.py_**
+- O ChatBot é inicializado com o comando **_python fe_smiles.py_**
 - Para mais detalhes das configurações, entre no link https://www.twilio.com/blog/construa-chatbot-whatsapp-python-flask-twilio. Este link foi utilizado como referência para construção do nosso bot.
